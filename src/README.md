@@ -27,7 +27,8 @@ or you can use your prefer extension to your browser for example [ RestMan for o
  6. In the .env file, add database information to allow Laravel to connect to the database
  7. Migrate, Seed and and install Passport package with one comand 
     - `php artisian project:install`
-    -- if you need to make manullay, so please follow the next steps
+    
+    -- if you need to make it manullay, so please follow the next steps
         - `php artisian migrate:fresh --seed`
         - `php artisian passport:install`
 8. Run your application 
@@ -35,7 +36,7 @@ or you can use your prefer extension to your browser for example [ RestMan for o
 
 ## Start using API
 1. open postman application
-2. import this collection `https://documenter.getpostman.com/view/8893146/UzQyrPkK`
+2. import this collection https://documenter.getpostman.com/view/8893146/UzQyrPkK
 3. send  login request and make sure that the responce token has been added in the token variable in the collecation itselfe.
 4. Note: if you are running your application on another domain rather than that  <http://127.0.0.1:8000>, so please make sure that you change collection varaibles domain with your running domin.
 
