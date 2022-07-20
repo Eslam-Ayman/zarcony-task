@@ -41,9 +41,9 @@ or you can use your prefer extension to your browser for example [ RestMan for o
 
 > Note: you can send any data as `json` or `form-data` in postman and in the `PUT` requests i have made them to post request with key `_method = put` to send the image via postman
 
-Please Don't hisitate to conntact me if you need any help to run the application
+Please Don't hesitate to contact me if you need any help to run the application.
 ## Program's Output
-![N|Solid](https://i.ibb.co/5LQDgSv/image-2022-07-20-124152.png)
+![N|Solid](https://i.ibb.co/DbQmqP6/image.png)
 
 # License 
 GNU GPL License
